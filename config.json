@@ -1,0 +1,14 @@
+{
+    "default_directory": "",
+    "mobile_storage_paths": {
+        "internal": "/storage/emulated/0",
+        "external": "/storage"
+    },
+    "remember_path": true,
+    "excluded_dirs": [
+        "/proc",
+        "/sys",
+        "/system"
+    ],
+    "is_mobile": false
+}
